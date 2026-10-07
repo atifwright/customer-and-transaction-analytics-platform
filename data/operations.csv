@@ -1,0 +1,5 @@
+incident_id,transaction_id,incident_type,resolution_hours,status
+I001,T002,late_fulfillment,18.5,resolved
+I002,T005,payment_review,3.0,resolved
+I003,T006,refund_request,7.5,resolved
+I004,T008,delivery_delay,26.0,open

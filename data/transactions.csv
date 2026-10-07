@@ -1,0 +1,10 @@
+transaction_id,customer_id,transaction_date,amount,channel,status
+T001,C001,2025-01-10,450.00,web,completed
+T002,C001,2025-02-15,725.50,mobile,completed
+T003,C001,2025-03-20,120.00,web,completed
+T004,C002,2025-01-18,85.00,store,completed
+T005,C002,2025-03-02,150.00,mobile,completed
+T006,C003,2025-01-25,300.00,web,refunded
+T007,C003,2025-03-28,210.00,store,completed
+T008,C004,2025-02-10,980.00,web,completed
+T009,C005,2025-03-30,40.00,mobile,cancelled

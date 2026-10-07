@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,region,signup_date
+C001,Avery,Nguyen,avery.nguyen@example.test,West,2024-01-15
+C002,Jordan,Patel,jordan.patel@example.test,East,2024-04-10
+C003,Casey,Smith,casey.smith@example.test,Central,2024-07-21
+C004,Riley,Garcia,riley.garcia@example.test,South,2025-01-05
+C005,Morgan,Kim,morgan.kim@example.test,West,2025-02-18

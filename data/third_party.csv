@@ -1,0 +1,6 @@
+customer_id,credit_score,risk_band,market_segment
+C001,742,low,premium
+C002,681,medium,value
+C003,590,high,standard
+C004,715,low,premium
+C005,633,medium,standard
